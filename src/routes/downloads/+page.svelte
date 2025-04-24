@@ -208,6 +208,14 @@
 		>2.0 release</a
 	>
 
+	<hr />
+
+	<p><i>Downloads server</i></p>
+
+	<embed src="https://quill-pkgs.ddns.net" width="500px" height="500px" />
+
+	<hr />
+
 	<p class="small">
 		<i
 			>Huge thanks to <a href="https://github.com/fermino/" target="_blank">@fermino</a> for hosting.</i
