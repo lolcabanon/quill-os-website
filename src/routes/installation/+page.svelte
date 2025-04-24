@@ -2,6 +2,10 @@
 	import Container from '../Container.svelte';
 </script>
 
+<svelte:head>
+	<title>Quill OS - Installation</title>
+</svelte:head>
+
 <h1>Quill OS installation</h1>
 
 <Container>

@@ -4,6 +4,10 @@
 	import Container from '../Container.svelte';
 </script>
 
+<svelte:head>
+	<title>Quill OS - Donate</title>
+</svelte:head>
+
 <h1>Donate to Quill OS</h1>
 
 <Container>

@@ -2,6 +2,10 @@
 	import Container from '../Container.svelte';
 </script>
 
+<svelte:head>
+	<title>Quill OS - Screenshots</title>
+</svelte:head>
+
 <h1>Quill OS screenshots</h1>
 
 <Container>

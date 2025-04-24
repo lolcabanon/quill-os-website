@@ -2,9 +2,13 @@
 	import Container from '../Container.svelte';
 </script>
 
-<Container>
-	<h1>Download Quill OS</h1>
+<svelte:head>
+	<title>Quill OS - Downloads</title>
+</svelte:head>
 
+<h1>Download Quill OS</h1>
+
+<Container>
 	<p>
 		This page contains direct download links for Quill OS. Once you have downloaded the file you
 		need (see below), please follow the <a href="/installation">installation steps</a>.

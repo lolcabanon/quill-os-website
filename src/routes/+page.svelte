@@ -2,6 +2,10 @@
 	import Container from './Container.svelte';
 </script>
 
+<svelte:head>
+	<title>Quill OS - Homepage</title>
+</svelte:head>
+
 <h1>Quill OS</h1>
 
 <p class="wow">
