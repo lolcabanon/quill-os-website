@@ -212,7 +212,7 @@
 
 	<h2>Downloads server</h2>
 
-	<embed src="https://quill-pkgs.ddns.net" width="500px" height="500px" />
+	<embed src="http://23.163.0.39" width="500px" height="500px" />
 
 	<hr />
 
