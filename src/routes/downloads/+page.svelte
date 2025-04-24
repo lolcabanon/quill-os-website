@@ -210,7 +210,7 @@
 
 	<hr />
 
-	<p><i>Downloads server</i></p>
+	<h2>Downloads server</h2>
 
 	<embed src="https://quill-pkgs.ddns.net" width="500px" height="500px" />
 
