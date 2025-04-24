@@ -1,6 +1,10 @@
+<script>
+	import { base } from '$app/paths';
+</script>
+
 <div class="center">
-	<a class="logo" href="/">
-		<img src="assets/quillos-web.png" alt="Quill OS logo" width="125" height="125" />
+	<a class="logo" href="{base}/">
+		<img src="{base}/assets/quillos-web.png" alt="Quill OS logo" width="125" height="125" />
 	</a>
 </div>
 
@@ -8,15 +12,15 @@
 
 <ul>
 	<li>
-		<a href="/">Home</a>
+		<a href="{base}/">Home</a>
 	</li>
 
 	<li>
-		<a href="/downloads">Download</a>
+		<a href="{base}/downloads">Download</a>
 	</li>
 
 	<li>
-		<a href="/installation">Installation</a>
+		<a href="{base}/installation">Installation</a>
 	</li>
 
 	<li>
@@ -28,11 +32,11 @@
 	</li>
 
 	<li>
-		<a href="/screenshots">Screenshots</a>
+		<a href="{base}/screenshots">Screenshots</a>
 	</li>
 
 	<li>
-		<a href="/donate">Donate</a>
+		<a href="{base}/donate">Donate</a>
 	</li>
 </ul>
 

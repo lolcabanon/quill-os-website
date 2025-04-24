@@ -3,7 +3,13 @@ import adapter from '@sveltejs/adapter-static';
 import { sveltePreprocess } from 'svelte-preprocess';
 
 const config = {
-	kit: { adapter: adapter() },
+	kit: {
+		adapter: adapter(),
+
+		paths: {
+			base: process.env.NODE_ENV === 'production' ? '/quill-os.github.io' : ''
+		}
+	},
 	preprocess: [
 		sveltePreprocess({
 			scss: true
