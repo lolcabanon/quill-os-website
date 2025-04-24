@@ -7,7 +7,7 @@ const config = {
 		adapter: adapter(),
 
 		paths: {
-			base: process.env.NODE_ENV === 'production' ? '/quill-os.github.io' : ''
+			base: process.env.NODE_ENV === 'production' ? '/quill-os-website' : ''
 		}
 	},
 	preprocess: [

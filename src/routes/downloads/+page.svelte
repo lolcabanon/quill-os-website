@@ -1,4 +1,5 @@
 <script>
+	import { base } from '$app/paths';
 	import Container from '../Container.svelte';
 </script>
 
@@ -11,7 +12,7 @@
 <Container>
 	<p>
 		This page contains direct download links for Quill OS. Once you have downloaded the file you
-		need (see below), please follow the <a href="/installation">installation steps</a>.
+		need (see below), please follow the <a href="{base}/installation">installation steps</a>.
 	</p>
 
 	<p>

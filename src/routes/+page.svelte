@@ -1,4 +1,6 @@
 <script>
+	import { base } from '$app/paths';
+
 	import Container from './Container.svelte';
 </script>
 
@@ -15,7 +17,7 @@
 <Container>
 	<h2>Overview</h2>
 
-	<img src="/assets/screenshots/home-2.png" width="600" height="800" alt="Quill OS" />
+	<img src="{base}/assets/screenshots/home-2.png" width="600" height="800" alt="Quill OS" />
 
 	<h2>Features</h2>
 
