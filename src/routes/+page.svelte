@@ -48,7 +48,11 @@
 		font-size: 2rem;
 		text-align: center;
 		margin: 0;
-		padding: 0.5em;
+		padding: 1.5em;
+
+		background-color: white;
+
+		box-shadow: 0px 6px 12px -4px hsl(0, 0%, 80%);
 	}
 
 	h2 {
