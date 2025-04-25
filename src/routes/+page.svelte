@@ -71,10 +71,13 @@
 
 		p {
 			font-weight: bold;
+			text-align: center;
 		}
 
 		ul {
 			list-style-type: ' 📚 ';
+			width: fit-content;
+			margin-inline: auto;
 		}
 	}
 </style>
