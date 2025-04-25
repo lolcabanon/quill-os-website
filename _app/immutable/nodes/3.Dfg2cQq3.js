@@ -1,0 +1,1 @@
+import{t,a as o}from"../chunks/ZKkoP3b9.js";import"../chunks/Bd6dwusM.js";import{s as e}from"../chunks/DyHvbP9v.js";import{b as p}from"../chunks/BELzlqH-.js";var m=t("<a>paraglide</a>");function d(r){var a=m();e(a,"href",`${p??""}/demo/paraglide`),o(r,a)}export{d as component};
