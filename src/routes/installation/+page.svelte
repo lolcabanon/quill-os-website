@@ -10,9 +10,16 @@
 <h1>Quill OS installation</h1>
 
 <Container>
+	<p>There are 3 steps to install Quill OS on your eReader :</p>
+
+	<ol>
+		<li>download</li>
+		<li>flash</li>
+		<li>setup</li>
+	</ol>
+
 	<p>
-		There are 3 steps to install Quill OS on your eReader: <strong>download, flash and setup</strong
-		>. To download Quill OS, visit the <a href="{base}/downloads">Downloads</a> page.
+		To download Quill OS, visit the <a href="{base}/downloads">Downloads</a> page.
 	</p>
 
 	<p>
@@ -45,3 +52,9 @@
 		version.
 	</p>
 </Container>
+
+<style>
+	ol {
+		font-weight: bold;
+	}
+</style>
